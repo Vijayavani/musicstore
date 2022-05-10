@@ -1,0 +1,12 @@
+.landing-page
+{
+  background: url("https://cdn-0.studybreaks.com/wp-content/uploads/2018/04/1_F0u0WB6EslNKYI5P4H9U1A.jpeg?ezimgfmt=ng%3Awebp%2Fngcb6%2Frs%3Adevice%2Frscb6-1") scroll center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.wrapper
+{
+  background-color: rgba(0,0,0,0.2);
+  height: 100%;
+}
